@@ -9,10 +9,6 @@ https://beacons.ai/gdscensamr
 
 ![dssq](https://user-images.githubusercontent.com/74367730/217936317-cdad7258-64ba-46c0-98a0-e094e0958ec3.PNG)
 
-## Getting Started
-
-To get started, you will need to fork this repository and clone it to your local machine. You can do this by clicking the "Fork" button in the top right corner of the repository page and then cloning the repository using the Git command line or a Git GUI client.
-
 ## Prerequisites
 
 NONE, EVERYONE CAN CONTRIBUTE!!
@@ -23,6 +19,10 @@ NONE, EVERYONE CAN CONTRIBUTE!!
 - CSS
 - JavaScript
 - Git
+
+## Getting Started
+
+To get started, you will need to fork this repository and clone it to your local machine. You can do this by clicking the "Fork" button in the top right corner of the repository page and then cloning the repository using the Git command line or a Git GUI client.
 
 ## Contributing
 
